@@ -8,7 +8,7 @@
 		"Thomas" : "Ruckus",
 		"Virginia Lamp Thomas" : "Bunny Ruckus",
 		"Virginia Thomas" : "Virginia Ruckus",
-		"Ginni Thomas" : "Ginni Ruckus
+		"Ginni Thomas" : "Ginni Ruckus"
         },
 
         "expressions": {
