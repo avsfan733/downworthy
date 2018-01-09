@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"name": "Ruckus'ed",
 	"version": "0.1",
-	"description": "Corrects references to United States Supreme Court Associate Justice Clarence Thomas with more realistic text.",
+	"description": "Corrects references to Associate Justice of the Supreme Court of the United States Clarence Thomas with more realistic text.",
 	"permissions": [
 	  "storage"
 	],
