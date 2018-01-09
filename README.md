@@ -1,4 +1,4 @@
-Downworthy Chrome Extension
+Ruckus Extension
 ==========
 This is a very fork of the uber popular plugin/extension/adin Downworthy that is intended as social satire and commentary (i.e., https://en.wikipedia.org/wiki/Fair_use) of The sleepiest Associate Supreme Court Justice(https://www.newyorker.com/news/daily-comment/clarence-thomass-disgraceful-silence). Justice Thomas was nominated to the court by President George H. W. Bush, the metaphorical child of President Ronald Reagan, the keeper of white heaven (i.e., God).
 
