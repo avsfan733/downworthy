@@ -8,8 +8,11 @@ I, no relation, am far from the first to make the association between Thomas and
 
 C.F. :
 http://circleshirk.blogspot.com/2011/02/ive-decided-that-clarence-thomas-is.html
+
 https://jeffwinbush.com/2013/06/26/yes-uncle-ruckus-thomas-still-hates-your-black-ass/
+
 https://washingtonmonthly.com/2017/10/09/oh-brother-the-clarence-thomas-museum-controversy
+
 http://www.phillytrib.com/commentary/local-commentary/on-solving-the-puzzle-of-clarence-thomas/article_4d25e41b-550c-5027-94be-4a5bc86d5035.html
 
 
