@@ -1,8 +1,8 @@
 {
-	"manifest_version": 2,
-	"name": "Downworthy",
-	"version": "0.0.8",
-	"description": "Replaces hyberbolic headlines from bombastic viral websites with a slightly more realistic version.",
+	"manifest_version": 1,
+	"name": "Ruckus'ed",
+	"version": "0.1",
+	"description": "Corrects references to United States Supreme Court Associate Justice Clarence Thomas with more realistic text.",
 	"permissions": [
 	  "storage"
 	],
